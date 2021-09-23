@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 12vh;
+    background-color: #DEDEDE;
+
+}
+header .logo{
+    font-size: 30px;
+    float: left;
+    margin: 25px;
+
+}
+header .navmenu-list{
+    float: right;
+    margin: 27px;
+}
+header .navmenu-list ul{
+
+}
+header .navmenu-list li{
+    list-style: none;
+    display: inline-block;
+    margin: 5px;
+}
+header .navmenu-list a{
+    text-decoration: none;
+    color: black;
+}
